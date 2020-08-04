@@ -1,32 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" ,TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" ,TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" ,TV3
 https://exodiver.github.io/IPTV/M3U8/Token/TV3.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
+#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" ,NTV 7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
-#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",8TV
+#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" ,8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
-#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
+#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" ,TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
-#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",OKEY
+#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" ,OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
+#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" ,Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
+#EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" ,Astro Ceria
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
-#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="Malaysia",Astro Naura
+#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" ,Astro Naura
 https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
-#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Malaysia",Astro Ria
+#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" ,Astro Ria
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
-#EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna
+#EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" ,Astro Warna
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
-#EXTINF:-1 tvg-id="Ber.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama
+#EXTINF:-1 tvg-id="Ber.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" ,Bernama
 https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
-#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Hello
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" ,Hello
 https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
-#EXTINF:-1 tvg-ID="HIT.MY" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" group-title="Malaysia",Hits
+#EXTINF:-1 tvg-ID="HIT.MY" tvg-logo="http://www.rewindnetworks.com/assets/logo_hits.png" ,Hits
 http://103.47.132.164/PLTV/88888888/224/3221227329/index.m3u8
